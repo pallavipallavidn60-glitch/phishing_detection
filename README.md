@@ -54,13 +54,9 @@ It helps users:
 ```bash
 phishing_detection/
 │
-├── templates/
-│   └── index.html
-│
-├── static/
+└── index.html
 │   ├── style.css
 │   └── script.js
-│
 ├── app.py
 ├── requirements.txt
 └── README.md
@@ -133,16 +129,6 @@ Through this project, I learned:
 - Frontend & backend integration
 - Flask framework
 - GitHub project management
-
----
-
-# 👩‍💻 Author
-
-## Pallavi D N
-
-🎓 Computer Science Engineering Student  
-💻 Interested in Cybersecurity & Full Stack Development
-
 ---
 
 # ⭐ Support
